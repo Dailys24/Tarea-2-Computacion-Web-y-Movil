@@ -1,0 +1,21 @@
+{
+  "name": "tarea-2-computacion-web-y-movil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dailys24/Tarea-2-Computacion-Web-y-Movil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dailys24/Tarea-2-Computacion-Web-y-Movil/issues"
+  },
+  "homepage": "https://github.com/Dailys24/Tarea-2-Computacion-Web-y-Movil#readme"
+}

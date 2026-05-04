@@ -1,0 +1,1 @@
+console.log("Proyecto Node.js con Clean Architecture levantado correctamente");
